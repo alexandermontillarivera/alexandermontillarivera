@@ -1,7 +1,7 @@
 ```Javascript
 const whoIam = {
     name: "Alexander Montilla Rivera 📓",
-    description: "Solve the problem first. then write the code 🚀",
+    message: "Solve the problem first. then write the code 🚀",
     rol: "Backend Developer 🥷",
     nacionality: "Dominican Republic 🚩",
     website: "https://alexmontillarivera.com 📚",
