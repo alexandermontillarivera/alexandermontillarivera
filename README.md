@@ -11,4 +11,4 @@ const whoIam = {
 }
 ```
 
-[![Alexander Montilla Rivera](https://github-readme-stats.vercel.app/api?username=alexandermontillarivera&show_icons=true&theme=radical)](https://github.com/alexandermontillarivera)
+[![Alexander Montilla Rivera](https://github-readme-stats.vercel.app/api?username=alexandermontillarivera&show_icons=true&theme=dracula)](https://github.com/alexandermontillarivera)
