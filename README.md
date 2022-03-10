@@ -10,3 +10,5 @@ const whoIam = {
     tecnologies: ["NodeJS","HTML", "CSS", "MongoDB","SQL" ⚙️]
 }
 ```
+
+[![Alexander Montilla Rivera](https://github-readme-stats.vercel.app/api?username=alexandermontillarivera&show_icons=true&theme=radical)](https://github.com/alexandermontillarivera)
