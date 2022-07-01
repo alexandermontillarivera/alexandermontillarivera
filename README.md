@@ -10,6 +10,7 @@ const whoIam = {
     tecnologies: ["NodeJS","HTML", "CSS", "MongoDB","SQL" ⚙️]
 }
 ```
-![Statistics](https://wakatime.com/share/@alexandermontilla/332f5f6d-41ce-4471-8e73-cf9e80b2d2bd.svg)
 
-[![Alexander Montilla Rivera](https://github-readme-stats.vercel.app/api?username=alexandermontillarivera&show_icons=true&theme=dracula)](https://github.com/alexandermontillarivera)
+### My last languages used in the last 7 days
+![Statistics](https://wakatime.com/share/@alexandermontilla/fd7b40f7-cea6-46e5-9459-e0aec17c3f90.svg)
+
