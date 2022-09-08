@@ -21,4 +21,4 @@ const whoIam = {
 ```
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermontillarivera&layout=compact&title_color=FB8C00&theme=highcontrast&hide_border=true" width="100%" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandermontilla&layout=compact&title_color=FB8C00&theme=highcontrast&hide_border=true" width="100%" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=masculus&theme=highcontrast&hide_border=true" width="100%" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=alexandermontillarivera&theme=highcontrast&hide_border=true" width="100%" />
