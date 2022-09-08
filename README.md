@@ -1,8 +1,17 @@
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=alexandermontillarivera&column=7&theme=dark_lover&margin-w=15&no-frame=true&no-bg=true" width="100%"/>
+</p>
+
+![](https://img.shields.io/badge/JavaScript-orange) ![](https://img.shields.io/badge/NodeJs-orange) ![](https://img.shields.io/badge/Mongodb-orange) ![](https://img.shields.io/badge/MySQL-orange) ![](https://img.shields.io/badge/SQL_Server-orange) ![](https://img.shields.io/badge/HTML-orange)
+![](https://img.shields.io/badge/CSS-orange) ![](https://img.shields.io/badge/Redis-orange) ![](https://img.shields.io/badge/TypeScript-orange)
+![](https://img.shields.io/badge/DenoJs-orange) ![](https://img.shields.io/badge/ExpressJs-orange) ![](https://img.shields.io/badge/Svelte-orange)
+![](https://img.shields.io/badge/API_REST-orange) ![](https://img.shields.io/badge/JSON-orange) ![](https://img.shields.io/badge/NPM-orange) ![](https://img.shields.io/badge/YARN-orange) ![](https://img.shields.io/badge/Mongoose-orange) ![](https://img.shields.io/badge/Git-orange)
+
 ```Javascript
 const whoIam = {
     name: "Alexander Montilla Rivera 📓",
     message: "Solve the problem first. then write the code 🚀",
-    rol: "Backend Developer 🥷",
+    rol: "Backend Developer, Half Full Stack 🥷",
     nacionality: "Dominican Republic 🚩",
     website: "https://alexmontillarivera.com 📚",
     status: "Student 🎓",
@@ -10,9 +19,6 @@ const whoIam = {
     tecnologies: ["NodeJS","HTML", "CSS", "MongoDB","SQL" ⚙️]
 }
 ```
-
-### My last languages used in the last 7 days
-![Statistics](https://wakatime.com/share/@alexandermontilla/fd7b40f7-cea6-46e5-9459-e0aec17c3f90.svg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermontillarivera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@alexandermontilla)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermontillarivera&layout=compact&title_color=FB8C00&theme=highcontrast&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@alexandermontilla&layout=compact&title_color=FB8C00&theme=highcontrast&hide_border=true" width="100%" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=masculus&theme=highcontrast&hide_border=true" width="100%" />
