@@ -2,7 +2,7 @@
 const whoIam = {
     name: "Alexander Montilla Rivera 📓",
     message: "Solve the problem first. then write the code 🚀",
-    rol: "Backend Developer, Half Full Stack 🥷",
+    rol: "Full stack developer 🥷",
     nacionality: "Dominican Republic 🚩",
     website: "https://alexmontillarivera.com 📚",
     status: "Student 🎓",
