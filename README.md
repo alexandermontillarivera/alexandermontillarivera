@@ -7,7 +7,7 @@ const whoIam = {
     website: "https://alexmontillarivera.com 📚",
     status: "Student 🎓",
     favorite_language: "Javascript 💻",
-    tecnologies: ["NodeJS","HTML", "CSS", "MongoDB","SQL" ⚙️]
+    tecnologies: ["NodeJS","HTML", "CSS", "MongoDB","SQL", "Deno", "Typescript", "Svelte" ⚙️]
 }
 ```
 
